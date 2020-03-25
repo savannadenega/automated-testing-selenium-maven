@@ -1,5 +1,5 @@
-# devops-docker-teste-automatizado-selenium
-Projeto para aplicação da ferramenta docker em conjunto com testes automatizados.
+# automated-testing-selenium-maven
+Projeto utilizando a ferramenta Selenium para testes automatizados em conjunto com a ferramenta de build Maven.
 
 Projeto realizado por: Savanna Denega.
 
